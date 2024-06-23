@@ -1,0 +1,12 @@
+/*  */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 8px;
+    font-weight: 300;
+}
+#the_graph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

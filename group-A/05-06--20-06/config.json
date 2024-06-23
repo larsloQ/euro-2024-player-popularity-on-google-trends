@@ -1,0 +1,23 @@
+{
+    "groups": ["de", "hu", "ch", "gb-sct", "scot", "empty"],
+    "groupsDisplayNames": {
+      "de": "Germany",
+      "hu": "Hungary",
+      "ch": "Switzerland",
+      "gb-sct": "Scotland",
+      "scot": "Scotland",
+      "empty": ""
+    },
+    "colors": [
+      "0,0,0",
+      "69,113,79",
+      "219,36,22",
+      "0,94,184",
+      "0,94,184",
+      "255,255,255"
+    ],
+    "csvFiles": {
+        "data": "RESULTS.csv",
+        "dates": "DATES.csv"
+    }
+}
